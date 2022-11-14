@@ -20,6 +20,12 @@ export default function Home() {
           Get started by editing{' '}
           <code className={styles.code}>pages/index.js</code>
         </p>
+
+        <Image
+            src="/ic_launcher.png"
+            width={100}
+            height={100}
+        />
       </main>
     </div>
   )
