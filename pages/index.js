@@ -14,6 +14,7 @@ export default function Home() {
                 <h1 className={styles.title}>
                     Welcome to <a href="#">Demo Page!</a>
                 </h1>
+                <img src="/ic_launcher.png" alt="" />
             </main>
         </div>
     )
