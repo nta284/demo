@@ -5,10 +5,6 @@ export default function Home() {
         <div className={styles.container}>
             <main className={styles.main}>
                 <h1 className={styles.title}>
-                    Dino English
-                </h1>
-                <br />
-                <h1 className={styles.title}>
                     Welcome to <a href="#">Demo Page!</a>
                 </h1>
             </main>
