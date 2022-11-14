@@ -21,10 +21,9 @@ export default function Home() {
           <code className={styles.code}>pages/index.js</code>
         </p>
 
-        <Image
-            src="/ic_launcher.png"
+        <img
+            src="https://media.sproutsocial.com/uploads/2017/02/10x-featured-social-media-image-size.png"
             width={100}
-            height={100}
         />
       </main>
     </div>
